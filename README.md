@@ -17,5 +17,7 @@ sebastio salgado
 
 ### related websites
 http://poppygauss.com/blog
+
 https://www.magnumphotos.com/photographers/
+
 https://www.flickr.com/photos/projectapolloarchive/
