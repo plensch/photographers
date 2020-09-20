@@ -15,6 +15,8 @@
 - sim chi yin
 - michael fatali
 - sebastio salgado
+- adam magyar
+- ansen seale
 
 ### related websites
 http://poppygauss.com/blog
