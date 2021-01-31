@@ -17,6 +17,10 @@
 - sebastio salgado
 - adam magyar
 - ansen seale
+- mitch dobrowner !!!
+- bruce barnbaum
+- chris mccaw
+
 
 ### related websites
 http://poppygauss.com/blog
